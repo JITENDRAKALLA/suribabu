@@ -177,11 +177,11 @@
     </header>
 
     <section id="about" class="about">
-        <h2>About Me</h2>
+        <h2>About you</h2>
         <p>Hello! I'm Irfana, a DevOps Engineer passionate about optimizing workflows and delivering scalable, automated solutions. I specialize in tools like Jenkins, Docker, Kubernetes, Terraform, and cloud platforms such as AWS and Azure.</p>
     </section>
 
-    <section id="skills" class="skills">
+    <section id="skillss" class="skills">
         <h2>Skills</h2>
         <ul>
             <li>CI/CD - Jenkins, GitHub Actions</li>
