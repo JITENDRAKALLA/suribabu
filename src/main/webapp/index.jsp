@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>Irfana - DevOps Engineer</h1>
+        <h1>Infra - DevOps Engineer</h1>
         <p>Building Automation & Scalable Solutions for Modern Applications</p>
         <nav>
             <a href="#about">About</a>
@@ -181,8 +181,8 @@
         <p>Hello! I'm Irfana, a DevOps Engineer passionate about optimizing workflows and delivering scalable, automated solutions. I specialize in tools like Jenkins, Docker, Kubernetes, Terraform, and cloud platforms such as AWS and Azure.</p>
     </section>
 
-    <section id="skillss" class="skills">
-        <h2>Skills</h2>
+    <section id="skills" class="skills">
+        <h2>Skillss</h2>
         <ul>
             <li>CI/CD - Jenkins, GitHub Actions</li>
             <li>Containerization - Docker</li>
